@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas | Implantação ERP`**
 
-Me chamo **Keven Rocha**, sou de Manaus, AM, e tenho experiência em implantação e suporte de sistemas ERP para postos de combustíveis e conveniência. Atualmente curso **Engenharia de Software** (7º período) e **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de sistemas, banco de dados e soluções ERP.
+Me chamo **Keven Rocha**, sou de Manaus, AM, e tenho experiência em implantação e suporte de sistemas ERP para postos de combustíveis e conveniência. Atualmente curso **Engenharia de Software** (7º período), com foco em desenvolvimento de sistemas, banco de dados e soluções ERP.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/keven-rocha">
