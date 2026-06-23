@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 Keven Rocha
 
 ```java
-Analista de Sistemas | Quality Automação
+Estudante de Engenharia de Software
 ```
 
 Me chamo Keven Rocha, estou Cursando Engenharia de Software. e sou Apaixonado por tecnologia, Java e banco de dados.
