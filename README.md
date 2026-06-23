@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Keven Rocha
 
-**`Engenheiro de Software em Formação | Desenvolvedor | Ex-Analista ERP`**
+**`Engenheiro de Software em Formação | Desenvolvedor | Analista ERP`**
 
 Olá! Sou o Keven, moro em Manaus/AM e estou vivendo uma **transição de carreira** para a área de desenvolvimento de sistemas. Atualmente estou no 7º período de **Engenharia de Software**. 
 
