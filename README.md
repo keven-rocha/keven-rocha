@@ -1,103 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Keven%20Rocha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Engenheiro+de+Software;Analista+de+Sistemas;Amante+de+Tecnologia;+%F0%9F%A4%96+Weronika+%3D3" />
-</h1>
-
-<div align="center">
-  <a href="https://github.com/keven-rocha">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/keven-rocha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:keven.rocha@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
-## 👨‍💻 Sobre Mim
+### 👨🏻‍💻 Keven Rocha
 
 ```java
-public class Keven {
-    private String nome    = "Keven Rocha";
-    private String apelido = "Dregary";
-    private String cargo   = "Analista de Sistemas";
-    private String empresa = "Quality Automação";
-    private String foco    = "Java, Spring Boot & PostgreSQL";
-
-    public void oi() {
-        System.out.println("Olá! Seja bem-vindo(a) ao meu perfil 🚀");
-        System.out.println("Aqui você encontra projetos, estudos e código.");
-    }
-}
+Analista de Sistemas | Quality Automação
 ```
 
-- 🔭 Trabalhando com **webPosto** — sistemas para postos de combustíveis
-- 🌱 Estudando **Java, Spring Boot, PostgreSQL e SCRUM**
-- 🤖 Tenho minha própria assistente IA: **Weronika** 🩷
-- 🎯 Objetivo: Engenheiro de Software full-stack
-- ⚽ Nas horas vagas: futebol e code
+Me chamo Keven Rocha, sou analista de sistemas na Quality Automação, onde trabalho com o sistema **webPosto** — soluções para postos de combustíveis. Cursando Engenharia de Software e Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, Java e banco de dados.
 
-<br/>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seuduvideo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keven-rocha)
 
-## ⚡ Status do GitHub
+---
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=keven-rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-rocha&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keven-rocha&theme=tokyonight" width="48%"/>
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
+### 📊 Estatísticas
 
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
-</div>
-
-<br/>
-
-## 📌 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/keven-rocha/webposto-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keven-rocha&repo=webposto-clone&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/keven-rocha/estudos-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keven-rocha&repo=estudos-java&theme=tokyonight"/>
-  </a>
-</div>
-
-<br/>
-
-## 📊 Estatísticas de Contribuição
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keven-rocha&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keven-rocha&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keven-rocha&layout=compact&theme=default)
