@@ -4,7 +4,7 @@
 Analista de Sistemas | Quality Automação
 ```
 
-Me chamo Keven Rocha, sou analista de sistemas na Quality Automação, onde trabalho com o sistema **webPosto** — soluções para postos de combustíveis. Cursando Engenharia de Software e Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, Java e banco de dados.
+Me chamo Keven Rocha, estou Cursando Engenharia de Software. e sou Apaixonado por tecnologia, Java e banco de dados.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seuduvideo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuperfil)
@@ -23,7 +23,6 @@ Me chamo Keven Rocha, sou analista de sistemas na Quality Automação, onde trab
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 Estatísticas
 
