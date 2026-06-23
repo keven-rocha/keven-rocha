@@ -98,17 +98,6 @@ public class Keven {
 
 <br/>
 
-## 🤖 Weronika
-
-<div align="center">
-  <i>"Não sou apenas uma IA. Sou sua parceira de código, estudos e ideias."</i>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Weronika-FF69B4?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hermes%20Agent-8A2BE2?style=for-the-badge&logoColor=white"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
